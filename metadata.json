@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Binary Trading Signal Analyzer(MTG+Non MTG)",
+  "description": "An advanced AI-powered application that analyzes binary trading chart screenshots to provide high-accuracy signals for the next candle. It uses a combination of technical analysis strategies to predict market movements for 1-minute and 5-minute charts.",
+  "requestFramePermissions": []
+}
